@@ -1,3 +1,8 @@
+#! /usr/bin/env python
+# /// script
+# dependencies = [evtx, click]
+# ///
+
 import os
 import json
 
